@@ -1,6 +1,8 @@
 <html><head>
-<title>Welcome to visit my webpage</title>
+<title>
+Welcome to visit my webpage
+</title>
 </head>
-<body bgcolor='#FF0000'>
+<body background="qishui.jpg">
 oh yeah
 </body>
