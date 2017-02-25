@@ -4,8 +4,8 @@
 Do not Welcome
 </title>
 <META HTTP-EQUIV="Content Type" CONTENT="TEXT/html; charset=utf-8">
-<style>
-body{color:green;}
+ <style>
+body {color:green;}
 </style>
 </head>
 <body background="qishui.jpg">
