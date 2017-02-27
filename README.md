@@ -13,5 +13,5 @@ body {color:green;}
 <h2>I'm verry happy that you can visit my website</h2><br>
 <a href="http://www.american.edu">American university</a>has a webwite.<br>
 <a href="https://www.w3schools.com/colors/colors_picker.asp">There</a> is also a good website about the color.<br>
-<a href="S street rising.docx">This</a>is a book review I wrote.<br>
+<a href="S street review.docx">This</a>is a book review I wrote.<br>
 </body>
